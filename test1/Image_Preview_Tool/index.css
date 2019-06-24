@@ -1,0 +1,19 @@
+/* Add your css styles here */
+#dropArea {
+    overflow: hidden;
+    padding: 40px 10px;
+    border: 2px #453590 dashed;
+    color: #453590;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#fileInput {
+    display: none;
+}
+
+#output img {
+    display: block;
+    margin: 15px auto;
+}
